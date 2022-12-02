@@ -8,7 +8,7 @@ venue:
 paperurl: 'https://dl.acm.org/doi/10.1145/3267305.3274184'
 citation: 
 ---
-**Yue Zhang**, Shijia Pan, Jonathon Fagert, Mostafa Mirshekari, Hae Young NoH, Pei Zhang, Lin Zhang. Occupant activity level estimation using floor vibration. Ubicomp 2018.
+**Yue Zhang**, Shijia Pan, Jonathon Fagert, Mostafa Mirshekari, Hae Young NoH, Pei Zhang, Lin Zhang. *Occupant activity level estimation using floor vibration*. Ubicomp 2018.
 
 [PDF](http://yzthu.github.io/files/2018_Ubicomp_workshop.pdf) [DOI](diolink)
 [Cite]
