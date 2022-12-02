@@ -3,7 +3,7 @@ title: "E-Loc: Indoor localization through building electric wiring"
 collection: publications
 permalink: /publication/2017_IPSN_poster
 excerpt: 
-date: 2018-11-01
+date: 2017-4-01
 venue: 
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3055031.3055064'
 citation: 
