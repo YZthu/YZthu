@@ -1,14 +1,14 @@
 ---
-title: "E-Loc: Indoor localization through building electric wiring. IPSN 2017."
+title: "E-Loc: Indoor localization through building electric wiring."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 
-date: 2017-04-18
+date: 
 venue: 
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3055031.3055064'
 citation: 
 ---
-Tian Zhou, **Yue Zhang**, Pei Zhang, Lin Zhang. [E-Loc: Indoor localization through building electric wiring](https://dl.acm.org/doi/abs/10.1145/3055031.3055064). IPSN 2017.
+Tian Zhou, **Yue Zhang**, Pei Zhang, Lin Zhang. E-Loc: Indoor localization through building electric wiring. IPSN 2017 (Best poster).
 
 [PDF](http://yzthu.github.io/files/2017_ipsn_poster.pdf) [DOI](diolink)
 
