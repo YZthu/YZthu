@@ -35,12 +35,6 @@ Skills
   * Time series processing
   * Causal inference
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Honor and Award
 ======
 * Best Demo award of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022)
@@ -49,3 +43,9 @@ Honor and Award
 * Third place award of Autocheckout competition at Cyber-Physical Systems and Internet-of-Things (CPS-IoT) Week's Conference on Internet of Things Design and Implementation (2020)
 * China National Scholarship (Tsinghua University 2019)
 * A Class Scholarship (Tsinghua University 2018)
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
