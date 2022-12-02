@@ -10,6 +10,14 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[PDF](http://yzthu.github.io/files/2017_ipsn_poster.pdf) 
+[PDF](http://yzthu.github.io/files/2017_ipsn_poster.pdf) [doi](diolink)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+```markdown
+@inproceedings{zhou2017loc,
+  title={E-Loc: Indoor localization through building electric wiring},
+  author={Zhou, Tian and Zhang, Yue and Chen, Xinlei and Zhang, Pei and Zhang, Lin},
+  booktitle={Proceedings of the 16th ACM/IEEE International Conference on Information Processing in Sensor Networks},
+  pages={311--312},
+  year={2017}
+}
+```

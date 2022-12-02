@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV_PDF](http://yzthu.github.io/files/YueZhangCV.pdf)
+[CV_Download](http://yzthu.github.io/files/YueZhangCV.pdf)
 
 Education
 ======
@@ -40,6 +40,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Honor and Award
+======
+* Best Demo award of SenSys 2022
+* Best
   
 Teaching
 ======
