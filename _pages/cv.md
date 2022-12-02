@@ -9,23 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+[CV_PDF](http://yzthu.github.io/files/YueZhangCV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Engineering, Tsinghua University, 2012-2016
+* M.S. in Electronic Engineering, Tsinghua University, 2016-2019
+* Ph.D in Computer Science, University of California, Merced, 2019-Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2021: Research Scientist Intern
+  * AiFi Inc.
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -41,12 +39,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
