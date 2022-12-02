@@ -11,7 +11,7 @@ citation:
 **Yue Zhang**, Zhizhang Hu, Susu Xu, Shijia Pan. *AutoQual: Task-oriented Structural Vibration Sensing Quality Assessment Leveraging Co-located Mobile Sensing Context*. CCF Transactions on Pervasive Computing and Interaction volume.
 
 [PDF](http://yzthu.github.io/files/2019_AutoQual.pdf) [DOI](diolink)
-[Cite]
+
 ```markdown
 @article{zhang2021autoqual,
   title={AutoQual: task-oriented structural vibration sensing quality assessment leveraging co-located mobile sensing context},

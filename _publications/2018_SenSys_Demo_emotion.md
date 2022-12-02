@@ -11,7 +11,7 @@ citation:
 **Yue Zhang**, Weixi Gu, Fei Ma, Khalid Mosalam, Lin Zhang, Shiguang Ni. *Real-Time Emotion Detection via E-See*. SenSys 2018 (Demo).
 
 [PDF](http://yzthu.github.io/files/2018_SenSys_Demo.pdf) [DOI](diolink)
-[Cite]
+
 ```markdown
 @inproceedings{gu2018real,
   title={Real-Time Emotion Detection via E-See},
