@@ -21,18 +21,19 @@ Work experience
 ======
 * Summer 2021: Research Scientist Intern
   * AiFi Inc.
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Mentor: Dr. Long Chen
+  * Vision-based custom event detection for autonomou retail store.
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Matlab, C++, Java
+* Embeded System
+  * Raspberry Pi
+  * Arduino
+* Machine Learning
+  * Time series processing
+  * Causal inference
 
 Publications
 ======
@@ -42,15 +43,9 @@ Publications
 
 Honor and Award
 ======
-* Best Demo award of SenSys 2022
-* Best
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Best Demo award of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022)
+* EECS Bobcat Fellowship, University of California, Merced 2022.
+* Best poster award of the ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN 2017, IPSN 2022)
+* Third place award of Autocheckout competition at Cyber-Physical Systems and Internet-of-Things (CPS-IoT) Week's Conference on Internet of Things Design and Implementation (2020)
+* China National Scholarship (Tsinghua University 2019)
+* A Class Scholarship (Tsinghua University 2018)
