@@ -14,5 +14,13 @@ In life, I am a big fan of hiking and camping, if you plan to visit Yosemite nat
 
 yzhang58 AT ucmerced dot edu
 
+Research Projects
+------
+
+Multimodal Human Activity Recognition
+---
+
+Multimodal Customer Activity Detection for Autonomous Retails
+---
 
 
