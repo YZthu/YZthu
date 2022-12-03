@@ -8,6 +8,6 @@ venue: SenSys Workshop
 paperurl: ''
 citation: 
 ---
-**Yue Zhang**, Abdias Benitez, Reza Ehsani, Shijia Pan. *DaQual: Data Quality Assessment for Tree Trunk Relative Water Content Sensors in a Pomegranate Orchard*. SenSys 2022 Workshop.
+**Yue Zhang**, Abdias Benitez, Reza Ehsani, Shijia Pan. *DaQual: Data Quality Assessment for Tree Trunk Relative Water Content Sensors in a Pomegranate Orchard*.
 
 [PDF](http://yzthu.github.io/files/2022_AgSys.pdf) [DOI](diolink)

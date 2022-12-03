@@ -8,7 +8,7 @@ venue: SenSys Workshop
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3359427.3361918?casa_token=xRsg2pAyF7gAAAAA:s3Q5DUlJnYYawBb_abvS9mXluY53jKKBk1bbeyDYOkCZ9FYbqQ5oiPLow8Qk0p27uWnCdM4vy3TfdcU'
 citation: 
 ---
-**Yue Zhang**, Lin Zhang, Hae Young NoH, Pei Zhang, Shijia Pan. *A Signal Quality Assessment Metrics for Vibration-based Human Sensing Data Acquisition*. SenSys 2019 Workshop.
+**Yue Zhang**, Lin Zhang, Hae Young NoH, Pei Zhang, Shijia Pan. *A Signal Quality Assessment Metrics for Vibration-based Human Sensing Data Acquisition*.
 
 [PDF](http://yzthu.github.io/files/2019_SenSys_workshop.pdf) [DOI](diolink)
 

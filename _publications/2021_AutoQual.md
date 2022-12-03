@@ -8,7 +8,7 @@ venue: CCF Transactions on Pervasive Computing and Interaction volume
 paperurl: 'https://link.springer.com/article/10.1007/s42486-021-00073-3'
 citation: 
 ---
-**Yue Zhang**, Zhizhang Hu, Susu Xu, Shijia Pan. *AutoQual: Task-oriented Structural Vibration Sensing Quality Assessment Leveraging Co-located Mobile Sensing Context*. CCF Transactions on Pervasive Computing and Interaction volume.
+**Yue Zhang**, Zhizhang Hu, Susu Xu, Shijia Pan. *AutoQual: Task-oriented Structural Vibration Sensing Quality Assessment Leveraging Co-located Mobile Sensing Context*.
 
 [PDF](http://yzthu.github.io/files/2019_AutoQual.pdf) [DOI](diolink)
 
