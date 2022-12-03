@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017_IPSN_poster
 excerpt: 
 date: 2017-4-01
-venue: 
+venue: IPSN
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3055031.3055064'
 citation: 
 ---

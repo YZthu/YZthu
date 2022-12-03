@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018_Ubicomp_workshop
 excerpt: 
 date: 2018-08-01
-venue: 
+venue: Ubicomp Workshop
 paperurl: 'https://dl.acm.org/doi/10.1145/3267305.3274184'
 citation: 
 ---

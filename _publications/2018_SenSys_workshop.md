@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018_SenSys_workshop
 excerpt: 
 date: 2018-11-01
-venue: 
+venue: SenSys Workshop
 paperurl: 'https://dl.acm.org/doi/10.1145/3277868.3277871'
 citation: 
 ---

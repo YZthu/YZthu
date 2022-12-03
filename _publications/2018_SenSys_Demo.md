@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018_SenSys_Demo
 excerpt: 
 date: 2018-11-04
-venue: 
+venue: SenSys
 paperurl: 'https://dl.acm.org/doi/10.1145/3274783.3275177'
 citation: 
 ---

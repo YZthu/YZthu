@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021_AutoQual
 excerpt: 
 date: 2021-07-15
-venue: 
+venue: CCF Transactions on Pervasive Computing and Interaction volume
 paperurl: 'https://link.springer.com/article/10.1007/s42486-021-00073-3'
 citation: 
 ---

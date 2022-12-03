@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019_SenSys_workshop
 excerpt: 
 date: 2019-11-01
-venue: 
+venue: SenSys Workshop
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3359427.3361918?casa_token=xRsg2pAyF7gAAAAA:s3Q5DUlJnYYawBb_abvS9mXluY53jKKBk1bbeyDYOkCZ9FYbqQ5oiPLow8Qk0p27uWnCdM4vy3TfdcU'
 citation: 
 ---
