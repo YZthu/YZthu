@@ -1,13 +1,13 @@
 ---
-title: "DaQual: Data Quality Assessment for Tree Trunk Relative Water Content Sensors in a Pomegranate Orchard"
+title: "CPA: Cyber-Physical Augmentation for Vibration Sensing in Autonomous Retails"
 collection: publications
-permalink: /publication/2022_SenSys_workshop
+permalink: /publication/2023_Hotmobile
 excerpt: 
-date: 2022-11-01
-venue: SenSys Workshop
+date: 2023-02-21
+venue: HotMobile
 paperurl: ''
 citation: 
 ---
-**Yue Zhang**, Abdias Benitez, Reza Ehsani, Shijia Pan. *DaQual: Data Quality Assessment for Tree Trunk Relative Water Content Sensors in a Pomegranate Orchard*.
+**Yue Zhang**, Carlos Ruiz, Shubham Rohal, Shijia Pan. *CPA: Cyber-Physical Augmentation for Vibration Sensing in Autonomous Retails*.
 
-[PDF](http://yzthu.github.io/files/2022_AgSys.pdf) [DOI](diolink)
+[PDF](http://yzthu.github.io/files/2023_HotMobile.pdf) [DOI](diolink)
