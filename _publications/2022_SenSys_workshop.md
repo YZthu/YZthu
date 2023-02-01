@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022_SenSys_workshop
 excerpt: 
 date: 2022-11-01
-venue: SenSys Workshop
+venue: AySys (SenSys Workshop)
 paperurl: ''
 citation: 
 ---
