@@ -10,7 +10,7 @@ citation:
 ---
 **Yue Zhang**, Shijia Pan, Jonathon Fagert, Mostafa Mirshekari, Hae Young NoH, Pei Zhang, Lin Zhang. *Occupant activity level estimation using floor vibration*.
 
-[PDF](http://yzthu.github.io/files/2018_Ubicomp_workshop.pdf) [DOI](diolink)
+[PDF](http://yzthu.github.io/files/2018_Ubicomp_workshop.pdf) [DOI](https://doi.org/10.1145/3267305.3274184)
 
 ```markdown
 @inproceedings{zhang2018occupant,

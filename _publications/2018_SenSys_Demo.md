@@ -10,7 +10,7 @@ citation:
 ---
 **Yue Zhang**, Shijia Pan, Jonathon Fagert, Mostafa Mirshekari, Hae Young NoH, Pei Zhang, Lin Zhang. *Vibration-Based Occupant Activity Level Monitoring System*.
 
-[PDF](http://yzthu.github.io/files/2018_SenSys_Demo.pdf) [DOI](diolink)
+[PDF](http://yzthu.github.io/files/2018_SenSys_Demo.pdf) [DOI](https://doi.org/10.1145/3274783.3275177)
 
 ```markdown
 @inproceedings{zhang2018vibration,

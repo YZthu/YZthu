@@ -10,7 +10,7 @@ citation:
 ---
 **Yue Zhang**, Lin Zhang, Hae Young NoH, Pei Zhang, Shijia Pan. *A Signal Quality Assessment Metrics for Vibration-based Human Sensing Data Acquisition*.
 
-[PDF](http://yzthu.github.io/files/2019_SenSys_workshop.pdf) [DOI](diolink)
+[PDF](http://yzthu.github.io/files/2019_SenSys_workshop.pdf) [DOI](https://doi.org/10.1145/3359427.3361918)
 
 ```markdown
 @inproceedings{zhang2019signal,

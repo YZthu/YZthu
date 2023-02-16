@@ -10,7 +10,7 @@ citation:
 ---
 **Yue Zhang**, Shijia Pan, Jonathon Fagert, Mostafa Mirshekari, Hae Young NoH, Pei Zhang, Lin Zhang. *Occupant-induced Office Floor Vibration Dataset for Activity Level Monitoring*.
 
-[PDF](http://yzthu.github.io/files/2018_SenSys_DATA.pdf) [DOI](diolink)
+[PDF](http://yzthu.github.io/files/2018_SenSys_DATA.pdf) https://doi.org/10.1145/3277868.3277871
 
 ```markdown
 @inproceedings{zhang2018occupant,

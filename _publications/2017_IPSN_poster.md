@@ -10,7 +10,7 @@ citation:
 ---
 Tian Zhou, **Yue Zhang**, Pei Zhang, Lin Zhang. *E-Loc: Indoor localization through building electric wiring*. (IPSN 2017 Best poster).
 
-[PDF](http://yzthu.github.io/files/2017_ipsn_poster.pdf) [DOI](diolink)
+[PDF](http://yzthu.github.io/files/2017_ipsn_poster.pdf) [DOI](http://dx.doi.org/10.1145/3055031.3055064)
 
 ```markdown
 @inproceedings{zhou2017loc,
