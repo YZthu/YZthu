@@ -37,6 +37,7 @@ Skills
 
 Honor and Award
 ======
+* SIGMOBILE Travel Award, HotMobile, 2023
 * Best Demo award of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022)
 * EECS Bobcat Fellowship, University of California, Merced 2022.
 * Best poster award of the ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN 2017, IPSN 2022)
