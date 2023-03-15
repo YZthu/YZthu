@@ -1,6 +1,6 @@
 ---
 title: "Vibration-based Customer-product Interaction Event Detection for Autonomous Retails"
-excerpt: "The . <br/> <img src='/images/CPA_HotMobile.png' height="400px">"
+excerpt: "The . <br/> <img src='/images/VMA_IPSN22.png' height="200px">"
 collection: portfolio
 ---
 

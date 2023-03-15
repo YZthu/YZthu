@@ -1,6 +1,6 @@
 ---
 title: "Cross-modal Signal Segments Association"
-excerpt: "We propose a cross-modal signal segment association scheme between wearable and structural vibration sensors to soving the multimodal missmatching problem in multi-user scenario for better human sensing applications. <br/> <img src='/images/CMA_IPSN.png' height="200px">"
+excerpt: "We propose a cross-modal signal segment association scheme between wearable and structural vibration sensors to soving the multimodal missmatching problem in multi-user scenario for better human sensing applications. <br/> <img src='/images/CMA_IPSN23.png' height="200px">"
 collection: projects
 ---
 
