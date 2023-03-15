@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1 <br/> <img src='/images/CMA_IPSN.png' height='400px'>"
+title: "Vibration-based Customer-product Interaction Event Detection for Autonomous Retails"
+excerpt: "The . <br/> <img src='/images/CPA_HotMobile.png' height="400px">"
 collection: portfolio
 ---
 
