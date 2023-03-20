@@ -16,12 +16,12 @@ yzhang58 AT ucmerced dot edu
 
 # Research Projects
 
-### Cross-modal Signal Segment Association
-<br/> <img src='/images/CMA_IPSN22.png' height="200px"> We propose a cross-modal signal segment association scheme between wearable and structural vibration sensors to soving the multimodal missmatching problem in multi-user scenario for better human sensing applications. 
+## Cross-modal Signal Segment Association
+<img align= "left" src='/images/CMA_IPSN22.png' height="50px"> We propose a cross-modal signal segment association scheme between wearable and structural vibration sensors to soving the multimodal missmatching problem in multi-user scenario for better human sensing applications. 
 
 
 
-### 2. Multimodal Customer Activity Detection for Autonomous Retails
+## 2. Multimodal Customer Activity Detection for Autonomous Retails
 
 
 
