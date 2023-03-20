@@ -16,18 +16,19 @@ yzhang58 AT ucmerced dot edu
 
 # Research Projects
 
-<p>
+
 ## 1. Cross-modal Signal Segment Association
 <div > 
 <img align="left" width="300" height="264" src='/images/CMA_IPSN23.png'/> 
 We propose a cross-modal signal segment association scheme between wearable and structural vibration sensors to soving the multimodal missmatching problem in multi-user scenario for better human sensing applications.
 <br />
 Related publications: <a href="https://yzthu.github.io/publication/2023_IPSN">IPSN 2023</a>
-
+<br />
+<br />
+<br />
+<br />
 </div>
-</p>
 
-<p>
 
 ## 2. Customer Event Detection in Autonomous Retails
 <div > 
@@ -37,7 +38,7 @@ Accurate customer event detection is essential in autonomous retails, such as ca
 Related publications: <a href="https://yzthu.github.io/publication/2023_Hotmobile">HotMobile 2023</a>
 
 </div>
-</p>
+
 
 
 
