@@ -26,10 +26,9 @@ Related publications: <a href="https://yzthu.github.io/publication/2023_IPSN">IP
 </div>
 
 
-<div > 
 
 ## 2. Customer Event Detection in Autonomous Retails
-</div>
+
 
 <div > 
 <img align="left" width="300" height="224" src='/images/CPA_HotMobile23.png'/> 
