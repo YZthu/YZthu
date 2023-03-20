@@ -22,7 +22,8 @@ yzhang58 AT ucmerced dot edu
 <img align="left" width="150" height="132" src='/images/CMA_IPSN23.png'/> 
 We propose a cross-modal signal segment association scheme between wearable and structural vibration sensors to soving the multimodal missmatching problem in multi-user scenario for better human sensing applications.
 <br />
-Related publications: [IPSN 2023](http://yzthu.github.io/_publications/2023_IPSN.md)
+Related publications: [IPSN 2023](http://yzthu.github.io/publications/2023_IPSN)
+
 </div>
  
 
