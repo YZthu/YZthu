@@ -10,4 +10,4 @@ citation:
 ---
 **Yue Zhang**, Carlos Ruiz, Shubham Rohal, Shijia Pan. *Demo: Single-Point Vibration Sensing for Product Pickup/Put-Down Detection in Autonomous Retails*.
 
-[PDF](http://yzthu.github.io/files/2023_HotMobile_Demo.pdf) [DOI](diolink)
+[PDF](http://yzthu.github.io/files/2023_HotMobile_Demo.pdf) [DOI](https://dl.acm.org/doi/abs/10.1145/3572864.3581583)
