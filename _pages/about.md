@@ -16,7 +16,9 @@ yzhang58 AT ucmerced dot edu
 
 # Research Projects
 
-### 1.Multimodal Human Activity Recognition
+### Cross-modal Signal Segment Association
+We propose a cross-modal signal segment association scheme between wearable and structural vibration sensors to soving the multimodal missmatching problem in multi-user scenario for better human sensing applications. 
+<br/> <img src='/images/CMA_IPSN23.png' height="200px">
 
 
 ### 2. Multimodal Customer Activity Detection for Autonomous Retails
