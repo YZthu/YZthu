@@ -18,8 +18,12 @@ yzhang58 AT ucmerced dot edu
 
 ## Cross-modal Signal Segment Association
 
-<div align="left"><img width="50" height="44" src="src='/images/CMA_IPSN23.png'"/></div>
-We propose a cross-modal signal segment association scheme between wearable and structural vibration sensors to soving the multimodal missmatching problem in multi-user scenario for better human sensing applications. 
+<div > 
+<img align="left" width="50" height="44" src='/images/CMA_IPSN23.png'/> 
+We propose a cross-modal signal segment association scheme between wearable and structural vibration sensors to soving the multimodal missmatching problem in multi-user scenario for better human sensing applications.
+
+</div>
+ 
 
 
 
