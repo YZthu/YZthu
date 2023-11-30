@@ -1,5 +1,5 @@
 ---
-title: "LEVO: LEGO® Bricks Enhanced Single-Point Vibration Sensing for Occupant Monitoring"
+title: "Poster: LEVO: LEGO® Bricks Enhanced Single-Point Vibration Sensing for Occupant Monitoring"
 collection: publications
 permalink: /publication/2023_SenSys_Poster
 excerpt: 

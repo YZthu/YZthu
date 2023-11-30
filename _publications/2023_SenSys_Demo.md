@@ -1,5 +1,5 @@
 ---
-title: "PA-Pill: Physical Augmented Pill Bottle for Vibration-Based Medication Intake Monitoring"
+title: "Demo: PA-Pill: Physical Augmented Pill Bottle for Vibration-Based Medication Intake Monitoring"
 collection: publications
 permalink: /publication/2023_SenSys_Demo
 excerpt: 

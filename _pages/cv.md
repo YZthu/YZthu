@@ -19,10 +19,16 @@ Education
 
 Work experience
 ======
-* Summer 2021: Research Scientist Intern
+
+* Summer 2023: Research Intern on ARVR System and Algorithms
+  * Futurewei Technologies
+  * Mentor: Dr. Liang Peng, Dr. Heather Yu, Dr. Xiyun Song
+  * Vision-based virtual text entry keyboard that improve input efficiency and alleviates physical fatigue by embedding the text entry activity into finger movement.
+
+* Summer 2021: Research Intern on Autonomous Retail
   * AiFi Inc.
   * Mentor: Dr. Long Chen
-  * Vision-based custom event detection for autonomou retail store.
+  * Vision-based custom event detection.
 
   
 Skills
