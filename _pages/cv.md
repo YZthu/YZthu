@@ -43,10 +43,11 @@ Skills
 
 Honor and Award
 ======
+* Best Poster Award of SenSys, 2023
 * SIGMOBILE Travel Award, HotMobile, 2023
-* Best Demo award of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022)
+* Best Demo Award of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022)
 * EECS Bobcat Fellowship, University of California, Merced 2022.
-* Best poster award of the ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN 2017, IPSN 2022)
+* Best Poster Award of the ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN 2017, IPSN 2022)
 * Third place award of Autocheckout competition at Cyber-Physical Systems and Internet-of-Things (CPS-IoT) Week's Conference on Internet of Things Design and Implementation (2020)
 * China National Scholarship (Tsinghua University 2019)
 * A Class Scholarship (Tsinghua University 2018)
